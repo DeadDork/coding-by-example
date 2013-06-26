@@ -21,3 +21,5 @@ Future Directions
 -----------------
 
 Eventually, this will be turned into a real website.
+
+For now, though, this is prety much my private repository of correct coding solutions.
