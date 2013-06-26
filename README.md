@@ -15,7 +15,7 @@ Accordingly, this repo houses a wiki that does exactly that.
 To Use
 ------
 
-Go to the GitHub wiki, and follow the instructions there.
+Go to the [GitHub wiki](https://github.com/DeadDork/coding-by-example/wiki), and follow the instructions there.
 
 Future Directions
 -----------------
